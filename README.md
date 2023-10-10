@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :pink_heart
+### Boas vindas ao meu perfil!! 🤍
 
 Meu nome é Alana Palmeira
 
@@ -10,6 +10,6 @@ Meu nome é Alana Palmeira
 
 alana.bostigo@escola.pr.gov.br
 
-@a_palmeira
+@a.palmeira_
 
-![](https://tenor.com/bRKca.gif)
+![](https://media.tenor.com/9LUr-_obbVAAAAAC/hello-kitty.gif)
