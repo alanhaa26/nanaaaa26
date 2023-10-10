@@ -1,10 +1,15 @@
-- 👋 Hi, I’m alana
-- 👀 I’m interested in my gf
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas vindas ao meu perfil :pink_heart
 
-<!---
-nanaaaa26/nanaaaa26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Alana Palmeira
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+alana.bostigo@escola.pr.gov.br
+
+@a_palmeira
+
+![](https://tenor.com/bRKca.gif)
