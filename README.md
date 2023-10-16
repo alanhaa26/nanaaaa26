@@ -14,4 +14,4 @@ alana.bostigo@escola.pr.gov.br
 
 ![](https://media.tenor.com/9LUr-_obbVAAAAAC/hello-kitty.gif)
 
-![](<a href="https://im.ge/i/PvDOhP"><img src="https://i.im.ge/2023/10/17/PvDOhP.hello-kittty-png.th.jpg" alt="hello kittty png" border="0"></a>)
+![hello kittty png](https://github.com/nanaaaa26/nanaaaa26/assets/146108279/10178904-f76d-4745-92f6-e581093be317)
