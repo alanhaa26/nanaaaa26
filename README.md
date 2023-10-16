@@ -10,8 +10,8 @@ Meu nome é Alana Palmeira
 
 alana.bostigo@escola.pr.gov.br
 
-@a.palmeira_
+[@a.palmeira_](https://www.instagram.com/a.palmeira_/)
 
 ![](https://media.tenor.com/9LUr-_obbVAAAAAC/hello-kitty.gif)
 
-![](https://im.ge/i/PvDOhP)
+![](<a href="https://im.ge/i/PvDOhP"><img src="https://i.im.ge/2023/10/17/PvDOhP.hello-kittty-png.th.jpg" alt="hello kittty png" border="0"></a>)
